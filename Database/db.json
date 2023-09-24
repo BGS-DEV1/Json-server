@@ -1,0 +1,145 @@
+{
+    "products":[
+        {
+          "id": 1,
+          "title": "Product 1",
+          "category": "Electronics",
+          "price": 4000,
+          "description": "This is a description about Product 1"
+        },
+        {
+          "id": 2,
+          "title": "Product 2",
+          "category": "Clothing",
+          "price": 2500,
+          "description": "This is a description about Product 2"
+        },
+        {
+          "id": 3,
+          "title": "Product 3",
+          "category": "Home Appliances",
+          "price": 1500,
+          "description": "This is a description about Product 3"
+        },
+        {
+          "id": 4,
+          "title": "Product 4",
+          "category": "Electronics",
+          "price": 5500,
+          "description": "This is a description about Product 4"
+        },
+        {
+          "id": 5,
+          "title": "Product 5",
+          "category": "Beauty",
+          "price": 200,
+          "description": "This is a description about Product 5"
+        },
+        {
+          "id": 6,
+          "title": "Product 6",
+          "category": "Furniture",
+          "price": 3200,
+          "description": "This is a description about Product 6"
+        },
+        {
+          "id": 7,
+          "title": "Product 7",
+          "category": "Electronics",
+          "price": 600,
+          "description": "This is a description about Product 7"
+        },
+        {
+          "id": 8,
+          "title": "Product 8",
+          "category": "Toys",
+          "price": 40,
+          "description": "This is a description about Product 8"
+        },
+        {
+          "id": 9,
+          "title": "Product 9",
+          "category": "Sports",
+          "price": 1200,
+          "description": "This is a description about Product 9"
+        },
+        {
+          "id": 10,
+          "title": "Product 10",
+          "category": "Clothing",
+          "price": 1800,
+          "description": "This is a description about Product 10"
+        },
+        {
+          "id": 11,
+          "title": "Product 11",
+          "category": "Beauty",
+          "price": 800,
+          "description": "This is a description about Product 11"
+        },
+        {
+          "id": 12,
+          "title": "Product 12",
+          "category": "Home Appliances",
+          "price": 3200,
+          "description": "This is a description about Product 12"
+        },
+        {
+          "id": 13,
+          "title": "Product 13",
+          "category": "Electronics",
+          "price": 4300,
+          "description": "This is a description about Product 13"
+        },
+        {
+          "id": 14,
+          "title": "Product 14",
+          "category": "Furniture",
+          "price": 2800,
+          "description": "This is a description about Product 14"
+        },
+        {
+          "id": 15,
+          "title": "Product 15",
+          "category": "Toys",
+          "price": 60,
+          "description": "This is a description about Product 15"
+        },
+        {
+          "id": 16,
+          "title": "Product 16",
+          "category": "Sports",
+          "price": 2100,
+          "description": "This is a description about Product 16"
+        },
+        {
+          "id": 17,
+          "title": "Product 17",
+          "category": "Electronics",
+          "price": 750,
+          "description": "This is a description about Product 17"
+        },
+        {
+          "id": 18,
+          "title": "Product 18",
+          "category": "Clothing",
+          "price": 2200,
+          "description": "This is a description about Product 18"
+        },
+        {
+          "id": 19,
+          "title": "Product 19",
+          "category": "Home Appliances",
+          "price": 4200,
+          "description": "This is a description about Product 19"
+        },
+        {
+          "id": 20,
+          "title": "Product 20",
+          "category": "Beauty",
+          "price": 120,
+          "description": "This is a description about Product 20"
+        }
+      ]
+      
+}
